@@ -1,0 +1,855 @@
+2023/12/12 22:25:18 INFO logging in using static token
+2023/12/12 22:25:19 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:25:20 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-hp9b",{"micros":107495,"calls":["id_created",{"micros":1125,"calls":[]},"session_lookup_time",{"micros":355,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-2-216",{"micros":105337,"calls":["start_session",{"micros":64603,"calls":["discord-api-688c594cc5-g6c7d",{"micros":59046,"calls":["get_user",{"micros":7977},"get_guilds",{"micros":6758},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":61}]}]},"starting_guild_connect",{"micros":65,"calls":[]},"presence_started",{"micros":16673,"calls":[]},"guilds_started",{"micros":139,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":23828,"calls":[]},"connect_finished",{"micros":23833,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: e2a82f132d7c234c50944131526f6d74, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/12 22:25:22 INFO [+]System start work![+]
+2023/12/12 22:25:58 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:26:41 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:26:41 INFO Cleaning up tasks.
+2023/12/12 22:26:41 INFO Cleaning up after 5 tasks.
+2023/12/12 22:26:41 INFO All tasks finished cancelling.
+2023/12/12 22:26:41 INFO Closing the event loop.
+2023/12/12 22:26:43 INFO logging in using static token
+2023/12/12 22:26:44 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:26:44 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-10rz",{"micros":105683,"calls":["id_created",{"micros":1327,"calls":[]},"session_lookup_time",{"micros":8921,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-225",{"micros":94852,"calls":["start_session",{"micros":75763,"calls":["discord-api-688c594cc5-fjq7p",{"micros":71561,"calls":["get_user",{"micros":8893},"get_guilds",{"micros":7252},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":63,"calls":[]},"presence_started",{"micros":1587,"calls":[]},"guilds_started",{"micros":157,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":17245,"calls":[]},"connect_finished",{"micros":17252,"calls":[]},"build_ready",{"micros":26,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 0af8c90f1fce48da167f81d4e6c79c06, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/12 22:26:47 INFO [+]System start work![+]
+2023/12/12 22:26:51 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:27:25 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:27:25 INFO Cleaning up tasks.
+2023/12/12 22:27:25 INFO Cleaning up after 5 tasks.
+2023/12/12 22:27:25 INFO All tasks finished cancelling.
+2023/12/12 22:27:25 INFO Closing the event loop.
+2023/12/12 22:27:27 INFO logging in using static token
+2023/12/12 22:27:28 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:27:28 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-z7vx",{"micros":146447,"calls":["id_created",{"micros":1145,"calls":[]},"session_lookup_time",{"micros":4049,"calls":[]},"session_lookup_finished",{"micros":44,"calls":[]},"discord-sessions-prd-2-160",{"micros":139777,"calls":["start_session",{"micros":104289,"calls":["discord-api-688c594cc5-6vccb",{"micros":81790,"calls":["get_user",{"micros":9789},"get_guilds",{"micros":6649},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":255},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":67,"calls":[]},"presence_started",{"micros":29727,"calls":[]},"guilds_started",{"micros":170,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5491,"calls":[]},"connect_finished",{"micros":5498,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 1cc72733fb2e6e33c6a80ebde73aef9c, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/12 22:27:30 INFO [+]System start work![+]
+2023/12/12 22:27:36 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:27:57 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:27:57 INFO Cleaning up tasks.
+2023/12/12 22:27:57 INFO Cleaning up after 5 tasks.
+2023/12/12 22:27:57 INFO All tasks finished cancelling.
+2023/12/12 22:27:57 INFO Closing the event loop.
+2023/12/12 22:27:59 INFO logging in using static token
+2023/12/12 22:28:00 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:28:00 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-t4th",{"micros":106806,"calls":["id_created",{"micros":704,"calls":[]},"session_lookup_time",{"micros":907,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"discord-sessions-prd-2-23",{"micros":103343,"calls":["start_session",{"micros":53630,"calls":["discord-api-688c594cc5-r9v8c",{"micros":47009,"calls":["get_user",{"micros":8229},"get_guilds",{"micros":5045},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":15}]}]},"starting_guild_connect",{"micros":56,"calls":[]},"presence_started",{"micros":39995,"calls":[]},"guilds_started",{"micros":236,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":9392,"calls":[]},"connect_finished",{"micros":9399,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 3e87f284c7386d7198b760e603b92fa6, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/12 22:28:03 INFO [+]System start work![+]
+2023/12/12 22:28:14 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:29:38 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:30:44 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:30:44 INFO Cleaning up tasks.
+2023/12/12 22:30:44 INFO Cleaning up after 5 tasks.
+2023/12/12 22:30:44 INFO All tasks finished cancelling.
+2023/12/12 22:30:44 INFO Closing the event loop.
+2023/12/12 22:30:46 INFO logging in using static token
+2023/12/12 22:30:48 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:30:48 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-9dkl",{"micros":103919,"calls":["id_created",{"micros":1039,"calls":[]},"session_lookup_time",{"micros":346,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-60",{"micros":101599,"calls":["start_session",{"micros":88078,"calls":["discord-api-688c594cc5-89q8q",{"micros":79743,"calls":["get_user",{"micros":28389},"get_guilds",{"micros":12911},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":4048},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":76,"calls":[]},"presence_started",{"micros":308,"calls":[]},"guilds_started",{"micros":160,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":12948,"calls":[]},"connect_finished",{"micros":12954,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 3e87ad981b9c0dd8130a2fb2e86aff52, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/12 22:30:50 INFO [+]System start work![+]
+2023/12/12 22:30:55 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:31:11 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:31:11 INFO Cleaning up tasks.
+2023/12/12 22:31:11 INFO Cleaning up after 5 tasks.
+2023/12/12 22:31:11 INFO All tasks finished cancelling.
+2023/12/12 22:31:11 INFO Closing the event loop.
+2023/12/12 22:31:13 INFO logging in using static token
+2023/12/12 22:31:15 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:31:15 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-325x",{"micros":76096,"calls":["id_created",{"micros":1292,"calls":[]},"session_lookup_time",{"micros":370,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-271",{"micros":73748,"calls":["start_session",{"micros":63571,"calls":["discord-api-688c594cc5-9kw22",{"micros":57882,"calls":["get_user",{"micros":8982},"get_guilds",{"micros":3435},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":1136},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":88,"calls":[]},"presence_started",{"micros":596,"calls":[]},"guilds_started",{"micros":215,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":9247,"calls":[]},"connect_finished",{"micros":9254,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 715bee2968f84226d469ff6c351661e6, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/12 22:31:17 INFO [+]System start work![+]
+2023/12/12 22:31:25 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:32:15 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:32:15 INFO Cleaning up tasks.
+2023/12/12 22:32:15 INFO Cleaning up after 5 tasks.
+2023/12/12 22:32:15 INFO All tasks finished cancelling.
+2023/12/12 22:32:15 INFO Closing the event loop.
+2023/12/12 22:32:17 INFO logging in using static token
+2023/12/12 22:32:18 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:32:18 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-t0bx",{"micros":68571,"calls":["id_created",{"micros":815,"calls":[]},"session_lookup_time",{"micros":2168,"calls":[]},"session_lookup_finished",{"micros":19,"calls":[]},"discord-sessions-prd-2-206",{"micros":64602,"calls":["start_session",{"micros":46201,"calls":["discord-api-688c594cc5-654jq",{"micros":40391,"calls":["get_user",{"micros":7761},"get_guilds",{"micros":3646},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":85,"calls":[]},"presence_started",{"micros":9162,"calls":[]},"guilds_started",{"micros":147,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":8979,"calls":[]},"connect_finished",{"micros":8984,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: ca7c2d310603f6e24bff5d8af05f5b87, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/12 22:32:20 INFO [+]System start work![+]
+2023/12/12 22:32:28 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:36:30 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:36:30 INFO Cleaning up tasks.
+2023/12/12 22:36:30 INFO Cleaning up after 5 tasks.
+2023/12/12 22:36:30 INFO All tasks finished cancelling.
+2023/12/12 22:36:30 INFO Closing the event loop.
+2023/12/12 22:36:40 INFO logging in using static token
+2023/12/12 22:36:42 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:36:42 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-10rz",{"micros":67038,"calls":["id_created",{"micros":1748,"calls":[]},"session_lookup_time",{"micros":408,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-66",{"micros":64418,"calls":["start_session",{"micros":42399,"calls":["discord-api-688c594cc5-g2dvp",{"micros":37405,"calls":["get_user",{"micros":7405},"get_guilds",{"micros":4208},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":58,"calls":[]},"presence_started",{"micros":1512,"calls":[]},"guilds_started",{"micros":167,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":20245,"calls":[]},"connect_finished",{"micros":20253,"calls":[]},"build_ready",{"micros":24,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: a9123b9eec3902667823a42f8a16e641, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/12 22:36:44 INFO [+]System start work![+]
+2023/12/12 22:36:51 CRITICAL Command raised an exception: TypeError: unsupported operand type(s) for +: 'Role' and 'str'
+2023/12/12 22:37:22 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:37:22 INFO Cleaning up tasks.
+2023/12/12 22:37:22 INFO Cleaning up after 5 tasks.
+2023/12/12 22:37:22 INFO All tasks finished cancelling.
+2023/12/12 22:37:22 INFO Closing the event loop.
+2023/12/12 22:38:59 INFO logging in using static token
+2023/12/12 22:39:01 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:39:01 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-326c",{"micros":119568,"calls":["id_created",{"micros":1238,"calls":[]},"session_lookup_time",{"micros":1647,"calls":[]},"session_lookup_finished",{"micros":52,"calls":[]},"discord-sessions-prd-2-137",{"micros":116275,"calls":["start_session",{"micros":62123,"calls":["discord-api-688c594cc5-z22dl",{"micros":52983,"calls":["get_user",{"micros":7759},"get_guilds",{"micros":7239},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":203},"authorized_ip_coro",{"micros":14}]}]},"starting_guild_connect",{"micros":57,"calls":[]},"presence_started",{"micros":10455,"calls":[]},"guilds_started",{"micros":137,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":43470,"calls":[]},"connect_finished",{"micros":43477,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 683fca917c25e757e8dda88bba9af21a, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/12 22:39:03 INFO [+]System start work![+]
+2023/12/12 22:39:09 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'edit'
+2023/12/12 22:40:33 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:40:33 INFO Cleaning up tasks.
+2023/12/12 22:40:33 INFO Cleaning up after 5 tasks.
+2023/12/12 22:40:33 INFO All tasks finished cancelling.
+2023/12/12 22:40:33 INFO Closing the event loop.
+2023/12/12 22:40:35 INFO logging in using static token
+2023/12/12 22:40:36 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:40:37 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-nmst",{"micros":81659,"calls":["id_created",{"micros":1777,"calls":[]},"session_lookup_time",{"micros":326,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-22",{"micros":79064,"calls":["start_session",{"micros":69143,"calls":["discord-api-688c594cc5-fkdl4",{"micros":64334,"calls":["get_user",{"micros":9060},"get_guilds",{"micros":8528},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":59,"calls":[]},"presence_started",{"micros":333,"calls":[]},"guilds_started",{"micros":157,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":9343,"calls":[]},"connect_finished",{"micros":9350,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 1167bdef2f25be7110a359f7cd6bfebe, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/12 22:40:39 INFO [+]System start work![+]
+2023/12/12 22:40:43 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'id'
+2023/12/12 22:41:39 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:41:39 INFO Cleaning up tasks.
+2023/12/12 22:41:39 INFO Cleaning up after 5 tasks.
+2023/12/12 22:41:39 INFO All tasks finished cancelling.
+2023/12/12 22:41:39 INFO Closing the event loop.
+2023/12/12 22:41:41 INFO logging in using static token
+2023/12/12 22:41:42 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:41:43 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-6shp",{"micros":90373,"calls":["id_created",{"micros":1978,"calls":[]},"session_lookup_time",{"micros":2917,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-142",{"micros":84909,"calls":["start_session",{"micros":52503,"calls":["discord-api-688c594cc5-prtfl",{"micros":44221,"calls":["get_user",{"micros":9099},"get_guilds",{"micros":5051},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":64,"calls":[]},"presence_started",{"micros":21815,"calls":[]},"guilds_started",{"micros":189,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":10303,"calls":[]},"connect_finished",{"micros":10311,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 6244d4be8bd28e2b5643eda1b8997dd7, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/12 22:41:45 INFO [+]System start work![+]
+2023/12/12 22:42:16 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'edit_message'
+2023/12/12 22:42:58 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:42:58 INFO Cleaning up tasks.
+2023/12/12 22:42:58 INFO Cleaning up after 5 tasks.
+2023/12/12 22:42:58 INFO All tasks finished cancelling.
+2023/12/12 22:42:58 INFO Closing the event loop.
+2023/12/12 22:43:00 INFO logging in using static token
+2023/12/12 22:43:02 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:43:02 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-j82w",{"micros":114434,"calls":["id_created",{"micros":1068,"calls":[]},"session_lookup_time",{"micros":367,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-2-226",{"micros":111599,"calls":["start_session",{"micros":72632,"calls":["discord-api-688c594cc5-sxcts",{"micros":66225,"calls":["get_user",{"micros":22010},"get_guilds",{"micros":3443},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":976},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":54,"calls":[]},"presence_started",{"micros":19599,"calls":[]},"guilds_started",{"micros":126,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":19162,"calls":[]},"connect_finished",{"micros":19167,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: e52c0c9ebd9bcb477f202c918fbc89d7, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/12 22:43:04 INFO [+]System start work![+]
+2023/12/12 22:43:08 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'response'
+2023/12/12 22:43:26 WARNING We are being rate limited. Retrying in 0.35 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:27 WARNING We are being rate limited. Retrying in 0.30 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:28 WARNING We are being rate limited. Retrying in 0.30 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:30 WARNING We are being rate limited. Retrying in 0.47 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:31 WARNING We are being rate limited. Retrying in 0.30 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:32 WARNING We are being rate limited. Retrying in 0.30 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:33 WARNING We are being rate limited. Retrying in 0.30 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:34 WARNING We are being rate limited. Retrying in 0.30 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:35 WARNING We are being rate limited. Retrying in 0.33 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:36 WARNING We are being rate limited. Retrying in 0.37 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:37 WARNING We are being rate limited. Retrying in 0.45 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:38 WARNING We are being rate limited. Retrying in 0.42 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:39 WARNING We are being rate limited. Retrying in 0.38 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:40 WARNING We are being rate limited. Retrying in 0.39 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:41 WARNING We are being rate limited. Retrying in 0.30 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:43:42 WARNING We are being rate limited. Retrying in 0.30 seconds. Handled under the bucket "1046360777772253204:None:/channels/{channel_id}/messages/{message_id}"
+2023/12/12 22:44:35 INFO Received signal to terminate bot and event loop.
+2023/12/12 22:44:35 INFO Cleaning up tasks.
+2023/12/12 22:44:35 INFO Cleaning up after 5 tasks.
+2023/12/12 22:44:36 INFO All tasks finished cancelling.
+2023/12/12 22:44:36 INFO Closing the event loop.
+2023/12/12 22:44:38 INFO logging in using static token
+2023/12/12 22:44:39 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 22:44:39 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-mgmx",{"micros":79229,"calls":["id_created",{"micros":2248,"calls":[]},"session_lookup_time",{"micros":351,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-206",{"micros":75843,"calls":["start_session",{"micros":62442,"calls":["discord-api-688c594cc5-8rq8l",{"micros":48507,"calls":["get_user",{"micros":8556},"get_guilds",{"micros":3804},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":3496},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":54,"calls":[]},"presence_started",{"micros":2815,"calls":[]},"guilds_started",{"micros":157,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":10341,"calls":[]},"connect_finished",{"micros":10346,"calls":[]},"build_ready",{"micros":24,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 58be1a6a3355d96f425d11fe92c3f0bd, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/12 22:44:42 INFO [+]System start work![+]
+2023/12/12 22:44:47 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'edit'
+2023/12/12 22:45:10 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'edit'
+2023/12/12 23:00:47 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:00:47 INFO Cleaning up tasks.
+2023/12/12 23:00:47 INFO Cleaning up after 5 tasks.
+2023/12/12 23:00:47 INFO All tasks finished cancelling.
+2023/12/12 23:00:47 INFO Closing the event loop.
+2023/12/12 23:00:49 INFO logging in using static token
+2023/12/12 23:00:51 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:00:52 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-x4ph",{"micros":111209,"calls":["id_created",{"micros":984,"calls":[]},"session_lookup_time",{"micros":2632,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-268",{"micros":106894,"calls":["start_session",{"micros":81996,"calls":["discord-api-688c594cc5-8wnxz",{"micros":73068,"calls":["get_user",{"micros":9252},"get_guilds",{"micros":5272},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":84,"calls":[]},"presence_started",{"micros":13767,"calls":[]},"guilds_started",{"micros":166,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":10851,"calls":[]},"connect_finished",{"micros":10856,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 980dc34a6fc61ce6329bef674171311b, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/12 23:00:54 INFO [+]System start work![+]
+2023/12/12 23:00:57 CRITICAL Command raised an exception: AttributeError: 'Bot' object has no attribute 'channel'
+2023/12/12 23:01:12 CRITICAL Command raised an exception: AttributeError: 'Bot' object has no attribute 'channel'
+2023/12/12 23:01:57 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:01:57 INFO Cleaning up tasks.
+2023/12/12 23:01:57 INFO Cleaning up after 5 tasks.
+2023/12/12 23:01:57 INFO All tasks finished cancelling.
+2023/12/12 23:01:57 INFO Closing the event loop.
+2023/12/12 23:01:59 INFO logging in using static token
+2023/12/12 23:02:00 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:02:00 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-qz5b",{"micros":111653,"calls":["id_created",{"micros":1692,"calls":[]},"session_lookup_time",{"micros":421,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-181",{"micros":107725,"calls":["start_session",{"micros":63099,"calls":["discord-api-688c594cc5-vm88s",{"micros":55760,"calls":["get_user",{"micros":8801},"get_guilds",{"micros":7494},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":1192},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":82,"calls":[]},"presence_started",{"micros":14126,"calls":[]},"guilds_started",{"micros":168,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":30220,"calls":[]},"connect_finished",{"micros":30228,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: a80341fff77f53e596a85bc30874ec1e, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/12 23:02:03 INFO [+]System start work![+]
+2023/12/12 23:02:05 CRITICAL Command raised an exception: AttributeError: 'Guild' object has no attribute 'channel'
+2023/12/12 23:02:24 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:02:24 INFO Cleaning up tasks.
+2023/12/12 23:02:24 INFO Cleaning up after 5 tasks.
+2023/12/12 23:02:24 INFO All tasks finished cancelling.
+2023/12/12 23:02:24 INFO Closing the event loop.
+2023/12/12 23:02:32 INFO logging in using static token
+2023/12/12 23:02:33 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:02:33 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-x3fr",{"micros":70883,"calls":["id_created",{"micros":906,"calls":[]},"session_lookup_time",{"micros":380,"calls":[]},"session_lookup_finished",{"micros":26,"calls":[]},"discord-sessions-prd-2-190",{"micros":68177,"calls":["start_session",{"micros":46442,"calls":["discord-api-688c594cc5-7rvd7",{"micros":39711,"calls":["get_user",{"micros":7573},"get_guilds",{"micros":4263},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":29},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":61,"calls":[]},"presence_started",{"micros":8422,"calls":[]},"guilds_started",{"micros":210,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":13011,"calls":[]},"connect_finished",{"micros":13017,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 0f4f84940c09915e28d96afa79a88143, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/12 23:02:36 INFO [+]System start work![+]
+2023/12/12 23:02:41 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'edit'
+2023/12/12 23:02:54 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:02:54 INFO Cleaning up tasks.
+2023/12/12 23:02:54 INFO Cleaning up after 5 tasks.
+2023/12/12 23:02:55 INFO All tasks finished cancelling.
+2023/12/12 23:02:55 INFO Closing the event loop.
+2023/12/12 23:02:56 INFO logging in using static token
+2023/12/12 23:02:58 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:02:58 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-9dkl",{"micros":91446,"calls":["id_created",{"micros":1819,"calls":[]},"session_lookup_time",{"micros":536,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-243",{"micros":88780,"calls":["start_session",{"micros":77347,"calls":["discord-api-688c594cc5-b4x2l",{"micros":71275,"calls":["get_user",{"micros":8654},"get_guilds",{"micros":8596},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":53,"calls":[]},"presence_started",{"micros":2012,"calls":[]},"guilds_started",{"micros":136,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9205,"calls":[]},"connect_finished",{"micros":9210,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: ab461b6b00d17fbd5704caf64277a3f0, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/12 23:03:01 INFO [+]System start work![+]
+2023/12/12 23:03:48 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:03:48 INFO Cleaning up tasks.
+2023/12/12 23:03:48 INFO Cleaning up after 5 tasks.
+2023/12/12 23:03:48 INFO All tasks finished cancelling.
+2023/12/12 23:03:48 INFO Closing the event loop.
+2023/12/12 23:03:50 INFO logging in using static token
+2023/12/12 23:03:51 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:03:52 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-0pjw",{"micros":141463,"calls":["id_created",{"micros":1759,"calls":[]},"session_lookup_time",{"micros":317,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-269",{"micros":138059,"calls":["start_session",{"micros":80886,"calls":["discord-api-688c594cc5-gnbq4",{"micros":76712,"calls":["get_user",{"micros":6548},"get_guilds",{"micros":2731},"send_scheduled_deletion_message",{"micros":9},"guild_join_requests",{"micros":2463},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":56,"calls":[]},"presence_started",{"micros":28397,"calls":[]},"guilds_started",{"micros":152,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":28537,"calls":[]},"connect_finished",{"micros":28542,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 9cf993c01ac4a2a180f8096e7107b3dd, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/12 23:03:54 INFO [+]System start work![+]
+2023/12/12 23:04:11 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:04:11 INFO Cleaning up tasks.
+2023/12/12 23:04:11 INFO Cleaning up after 5 tasks.
+2023/12/12 23:04:11 INFO All tasks finished cancelling.
+2023/12/12 23:04:11 INFO Closing the event loop.
+2023/12/12 23:04:13 INFO logging in using static token
+2023/12/12 23:04:14 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:04:14 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-br2x",{"micros":121403,"calls":["id_created",{"micros":1049,"calls":[]},"session_lookup_time",{"micros":383,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-221",{"micros":119242,"calls":["start_session",{"micros":103959,"calls":["discord-api-688c594cc5-x5q47",{"micros":98266,"calls":["get_user",{"micros":20534},"get_guilds",{"micros":6195},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":78,"calls":[]},"presence_started",{"micros":7297,"calls":[]},"guilds_started",{"micros":157,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":7722,"calls":[]},"connect_finished",{"micros":7729,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 3006527fa6418724f73d406147f0dd08, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/12 23:04:17 INFO [+]System start work![+]
+2023/12/12 23:06:22 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:06:22 INFO Cleaning up tasks.
+2023/12/12 23:06:22 INFO Cleaning up after 5 tasks.
+2023/12/12 23:06:23 INFO All tasks finished cancelling.
+2023/12/12 23:06:23 INFO Closing the event loop.
+2023/12/12 23:06:51 INFO logging in using static token
+2023/12/12 23:06:52 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:06:53 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-9g4t",{"micros":85392,"calls":["id_created",{"micros":947,"calls":[]},"session_lookup_time",{"micros":334,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-2-69",{"micros":82752,"calls":["start_session",{"micros":42881,"calls":["discord-api-688c594cc5-q785p",{"micros":36203,"calls":["get_user",{"micros":6991},"get_guilds",{"micros":3043},"send_scheduled_deletion_message",{"micros":32},"guild_join_requests",{"micros":881},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":65,"calls":[]},"presence_started",{"micros":6309,"calls":[]},"guilds_started",{"micros":161,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":33300,"calls":[]},"connect_finished",{"micros":33306,"calls":[]},"build_ready",{"micros":26,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 9a0f961d9958fdbfcc41df875a81af3e, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/12 23:06:55 INFO [+]System start work![+]
+2023/12/12 23:08:37 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:08:37 INFO Cleaning up tasks.
+2023/12/12 23:08:37 INFO Cleaning up after 5 tasks.
+2023/12/12 23:08:37 INFO All tasks finished cancelling.
+2023/12/12 23:08:37 INFO Closing the event loop.
+2023/12/12 23:08:39 INFO logging in using static token
+2023/12/12 23:08:41 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:08:41 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-l2r0",{"micros":113991,"calls":["id_created",{"micros":2519,"calls":[]},"session_lookup_time",{"micros":454,"calls":[]},"session_lookup_finished",{"micros":39,"calls":[]},"discord-sessions-prd-2-198",{"micros":110326,"calls":["start_session",{"micros":66725,"calls":["discord-api-688c594cc5-9lkjr",{"micros":62217,"calls":["get_user",{"micros":11611},"get_guilds",{"micros":6107},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":221},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":58,"calls":[]},"presence_started",{"micros":8747,"calls":[]},"guilds_started",{"micros":170,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":34601,"calls":[]},"connect_finished",{"micros":34606,"calls":[]},"build_ready",{"micros":17,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: dd931aa85da19d67e3e076450671c06e, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/12 23:08:43 INFO [+]System start work![+]
+2023/12/12 23:15:25 INFO Received signal to terminate bot and event loop.
+2023/12/12 23:15:25 INFO Cleaning up tasks.
+2023/12/12 23:15:25 INFO Cleaning up after 5 tasks.
+2023/12/12 23:15:25 INFO All tasks finished cancelling.
+2023/12/12 23:15:25 INFO Closing the event loop.
+2023/12/12 23:15:27 INFO logging in using static token
+2023/12/12 23:15:28 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/12 23:15:28 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-6nd2",{"micros":163889,"calls":["id_created",{"micros":1394,"calls":[]},"session_lookup_time",{"micros":602,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-221",{"micros":161283,"calls":["start_session",{"micros":107960,"calls":["discord-api-688c594cc5-pdxn5",{"micros":98317,"calls":["get_user",{"micros":14760},"get_guilds",{"micros":27387},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":59,"calls":[]},"presence_started",{"micros":20393,"calls":[]},"guilds_started",{"micros":142,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":32696,"calls":[]},"connect_finished",{"micros":32703,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: fb0f6fefddf2943479e12d9027dd2628, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/12 23:15:30 INFO [+]System start work![+]
+2023/12/12 23:15:34 CRITICAL Command raised an exception: TypeError: rasform.random.<locals>.edit() missing 1 required positional argument: 'interaction'
+2023/12/12 23:15:47 CRITICAL Command raised an exception: TypeError: rasform.random.<locals>.edit() missing 1 required positional argument: 'interaction'
+2023/12/14 11:28:45 INFO logging in using static token
+2023/12/14 11:28:46 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/14 11:28:46 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-w43j",{"micros":109958,"calls":["id_created",{"micros":2043,"calls":[]},"session_lookup_time",{"micros":276,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-107",{"micros":107307,"calls":["start_session",{"micros":48013,"calls":["discord-api-865fdcdb97-kcct4",{"micros":42576,"calls":["get_user",{"micros":6385},"get_guilds",{"micros":12485},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":53,"calls":[]},"presence_started",{"micros":46681,"calls":[]},"guilds_started",{"micros":185,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":12346,"calls":[]},"connect_finished",{"micros":12353,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 6f4bee27098e4722eb944ab56be21ff0, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/14 11:28:49 INFO [+]System start work![+]
+2023/12/14 11:30:10 INFO Received signal to terminate bot and event loop.
+2023/12/14 11:30:10 INFO Cleaning up tasks.
+2023/12/14 11:30:10 INFO Cleaning up after 5 tasks.
+2023/12/14 11:30:10 INFO All tasks finished cancelling.
+2023/12/14 11:30:10 INFO Closing the event loop.
+2023/12/14 11:30:15 INFO logging in using static token
+2023/12/14 11:30:16 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/14 11:30:16 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-ttc9",{"micros":76289,"calls":["id_created",{"micros":874,"calls":[]},"session_lookup_time",{"micros":4077,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-293",{"micros":70904,"calls":["start_session",{"micros":47282,"calls":["discord-api-865fdcdb97-lrcqg",{"micros":42962,"calls":["get_user",{"micros":15305},"get_guilds",{"micros":4588},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":68,"calls":[]},"presence_started",{"micros":8988,"calls":[]},"guilds_started",{"micros":136,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14404,"calls":[]},"connect_finished",{"micros":14408,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ed3643cb92605b62aa70d37b759aec30, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/14 11:30:18 INFO [+]System start work![+]
+2023/12/14 11:30:36 INFO Received signal to terminate bot and event loop.
+2023/12/14 11:30:36 INFO Cleaning up tasks.
+2023/12/14 11:30:36 INFO Cleaning up after 5 tasks.
+2023/12/14 11:30:36 INFO All tasks finished cancelling.
+2023/12/14 11:30:36 INFO Closing the event loop.
+2023/12/14 11:30:38 INFO logging in using static token
+2023/12/14 11:30:39 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/14 11:30:39 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-nmst",{"micros":138691,"calls":["id_created",{"micros":742,"calls":[]},"session_lookup_time",{"micros":13494,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-22",{"micros":123292,"calls":["start_session",{"micros":52219,"calls":["discord-api-865fdcdb97-k7bb2",{"micros":45798,"calls":["get_user",{"micros":9375},"get_guilds",{"micros":5700},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":16}]}]},"starting_guild_connect",{"micros":53,"calls":[]},"presence_started",{"micros":308,"calls":[]},"guilds_started",{"micros":137,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":70544,"calls":[]},"connect_finished",{"micros":70550,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 768cc26e0d86546e77fb909ac3399fac, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/14 11:30:42 INFO [+]System start work![+]
+2023/12/18 17:14:32 INFO logging in using static token
+2023/12/18 17:14:32 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:14:33 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-q6ld",{"micros":184439,"calls":["id_created",{"micros":1409,"calls":[]},"session_lookup_time",{"micros":6544,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-82",{"micros":175287,"calls":["start_session",{"micros":116200,"calls":["discord-api-948796595-d8k2t",{"micros":110146,"calls":["get_user",{"micros":20101},"get_guilds",{"micros":19212},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":53,"calls":[]},"presence_started",{"micros":18652,"calls":[]},"guilds_started",{"micros":197,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":40160,"calls":[]},"connect_finished",{"micros":40166,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 413ceaeccaae632aafb8bb9b699f4cb3, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/18 17:14:35 INFO [+]System start work![+]
+2023/12/18 17:16:02 INFO Received signal to terminate bot and event loop.
+2023/12/18 17:16:02 INFO Cleaning up tasks.
+2023/12/18 17:16:02 INFO Cleaning up after 5 tasks.
+2023/12/18 17:16:02 INFO All tasks finished cancelling.
+2023/12/18 17:16:02 INFO Closing the event loop.
+2023/12/18 17:16:04 INFO logging in using static token
+2023/12/18 17:16:05 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:16:05 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-9p02",{"micros":127218,"calls":["id_created",{"micros":1056,"calls":[]},"session_lookup_time",{"micros":549,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-169",{"micros":124579,"calls":["start_session",{"micros":85444,"calls":["discord-api-948796595-7bxwn",{"micros":79363,"calls":["get_user",{"micros":9704},"get_guilds",{"micros":9043},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":87,"calls":[]},"presence_started",{"micros":352,"calls":[]},"guilds_started",{"micros":169,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":38490,"calls":[]},"connect_finished",{"micros":38496,"calls":[]},"build_ready",{"micros":27,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 3c2b18cc674d3a5e434302047c6c4ebe, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/18 17:16:07 INFO [+]System start work![+]
+2023/12/18 17:16:49 INFO Received signal to terminate bot and event loop.
+2023/12/18 17:16:49 INFO Cleaning up tasks.
+2023/12/18 17:16:49 INFO Cleaning up after 5 tasks.
+2023/12/18 17:16:49 INFO All tasks finished cancelling.
+2023/12/18 17:16:49 INFO Closing the event loop.
+2023/12/18 17:16:51 INFO logging in using static token
+2023/12/18 17:16:52 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:16:53 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-t59j",{"micros":1128775,"calls":["id_created",{"micros":1157,"calls":[]},"session_lookup_time",{"micros":512,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-2-149",{"micros":1126486,"calls":["start_session",{"micros":1054079,"calls":["discord-api-948796595-p49xs",{"micros":204725,"calls":["get_user",{"micros":57219},"get_guilds",{"micros":9593},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":60,"calls":[]},"presence_started",{"micros":23690,"calls":[]},"guilds_started",{"micros":211,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":48414,"calls":[]},"connect_finished",{"micros":48420,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 43720a98e529a902e50292f1093a93ea, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/18 17:16:55 INFO [+]System start work![+]
+2023/12/18 17:17:26 INFO Received signal to terminate bot and event loop.
+2023/12/18 17:17:26 INFO Cleaning up tasks.
+2023/12/18 17:17:26 INFO Cleaning up after 5 tasks.
+2023/12/18 17:17:26 INFO All tasks finished cancelling.
+2023/12/18 17:17:26 INFO Closing the event loop.
+2023/12/18 17:17:29 INFO logging in using static token
+2023/12/18 17:17:30 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:17:30 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-9xh4",{"micros":64541,"calls":["id_created",{"micros":926,"calls":[]},"session_lookup_time",{"micros":2129,"calls":[]},"session_lookup_finished",{"micros":31,"calls":[]},"discord-sessions-prd-2-20",{"micros":61099,"calls":["start_session",{"micros":42127,"calls":["discord-api-948796595-xqqhg",{"micros":36279,"calls":["get_user",{"micros":6890},"get_guilds",{"micros":3864},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":51,"calls":[]},"presence_started",{"micros":294,"calls":[]},"guilds_started",{"micros":179,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18419,"calls":[]},"connect_finished",{"micros":18426,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 09db6c5c73d9835c0372bedef45b3a19, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/18 17:17:32 INFO [+]System start work![+]
+2023/12/18 17:17:47 INFO Received signal to terminate bot and event loop.
+2023/12/18 17:17:47 INFO Cleaning up tasks.
+2023/12/18 17:17:47 INFO Cleaning up after 5 tasks.
+2023/12/18 17:17:47 INFO All tasks finished cancelling.
+2023/12/18 17:17:47 INFO Closing the event loop.
+2023/12/18 17:17:49 INFO logging in using static token
+2023/12/18 17:17:49 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:17:50 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-2qhq",{"micros":89601,"calls":["id_created",{"micros":1787,"calls":[]},"session_lookup_time",{"micros":4072,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-2-279",{"micros":82144,"calls":["start_session",{"micros":43986,"calls":["discord-api-948796595-68d5q",{"micros":38289,"calls":["get_user",{"micros":7477},"get_guilds",{"micros":3906},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":55,"calls":[]},"presence_started",{"micros":7383,"calls":[]},"guilds_started",{"micros":166,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":30500,"calls":[]},"connect_finished",{"micros":30524,"calls":[]},"build_ready",{"micros":26,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 634392eb0b4ae8e8806d797a1ef74d5e, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/18 17:17:52 INFO [+]System start work![+]
+2023/12/18 17:18:46 INFO Received signal to terminate bot and event loop.
+2023/12/18 17:18:46 INFO Cleaning up tasks.
+2023/12/18 17:18:46 INFO Cleaning up after 5 tasks.
+2023/12/18 17:18:46 INFO All tasks finished cancelling.
+2023/12/18 17:18:46 INFO Closing the event loop.
+2023/12/18 17:18:47 INFO logging in using static token
+2023/12/18 17:18:48 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:18:49 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-0c3g",{"micros":178277,"calls":["id_created",{"micros":2649,"calls":[]},"session_lookup_time",{"micros":8846,"calls":[]},"session_lookup_finished",{"micros":24,"calls":[]},"discord-sessions-prd-2-151",{"micros":164788,"calls":["start_session",{"micros":100587,"calls":["discord-api-948796595-mwtdc",{"micros":78675,"calls":["get_user",{"micros":8906},"get_guilds",{"micros":13734},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":287},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":77,"calls":[]},"presence_started",{"micros":23089,"calls":[]},"guilds_started",{"micros":189,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":40822,"calls":[]},"connect_finished",{"micros":40828,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 0671930c20dd764edb8fae995aa3d889, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/18 17:18:51 INFO [+]System start work![+]
+2023/12/18 17:35:33 INFO Received signal to terminate bot and event loop.
+2023/12/18 17:35:33 INFO Cleaning up tasks.
+2023/12/18 17:35:33 INFO Cleaning up after 5 tasks.
+2023/12/18 17:35:33 INFO All tasks finished cancelling.
+2023/12/18 17:35:33 INFO Closing the event loop.
+2023/12/18 17:35:41 INFO logging in using static token
+2023/12/18 17:35:42 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:35:42 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-492s",{"micros":76046,"calls":["id_created",{"micros":1423,"calls":[]},"session_lookup_time",{"micros":363,"calls":[]},"session_lookup_finished",{"micros":20,"calls":[]},"discord-sessions-prd-2-106",{"micros":74004,"calls":["start_session",{"micros":48246,"calls":["discord-api-948796595-rkcks",{"micros":43244,"calls":["get_user",{"micros":7322},"get_guilds",{"micros":3589},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":927},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":119,"calls":[]},"presence_started",{"micros":4265,"calls":[]},"guilds_started",{"micros":179,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":21167,"calls":[]},"connect_finished",{"micros":21172,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: fc5d9618f33ccbacc07d403af2384ab4, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/18 17:35:44 INFO [+]System start work![+]
+2023/12/18 17:36:52 INFO Received signal to terminate bot and event loop.
+2023/12/18 17:36:52 INFO Cleaning up tasks.
+2023/12/18 17:36:52 INFO Cleaning up after 5 tasks.
+2023/12/18 17:36:53 INFO All tasks finished cancelling.
+2023/12/18 17:36:53 INFO Closing the event loop.
+2023/12/18 17:36:55 INFO logging in using static token
+2023/12/18 17:36:56 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:36:56 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-slk6",{"micros":76170,"calls":["id_created",{"micros":1448,"calls":[]},"session_lookup_time",{"micros":386,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-2-53",{"micros":73067,"calls":["start_session",{"micros":60732,"calls":["discord-api-948796595-gx2pq",{"micros":55503,"calls":["get_user",{"micros":8191},"get_guilds",{"micros":16408},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":16}]}]},"starting_guild_connect",{"micros":63,"calls":[]},"presence_started",{"micros":518,"calls":[]},"guilds_started",{"micros":197,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":11532,"calls":[]},"connect_finished",{"micros":11538,"calls":[]},"build_ready",{"micros":16,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 81727a0ab27b0ba3208c77e5c557c901, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/18 17:36:59 INFO [+]System start work![+]
+2023/12/18 17:38:45 INFO Deleted from the guild - Тестовий сервер | 1002848611270410240
+2023/12/18 17:39:24 INFO New guild - Тестовий сервер | 1002848611270410240
+2023/12/18 17:39:46 CRITICAL Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'data/custom message/guild/1002848611270410240.json'
+2023/12/18 17:40:10 CRITICAL Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'data/custom message/guild/1002848611270410240.json'
+2023/12/18 17:40:57 INFO Received signal to terminate bot and event loop.
+2023/12/18 17:40:57 INFO Cleaning up tasks.
+2023/12/18 17:40:57 INFO Cleaning up after 7 tasks.
+2023/12/18 17:40:57 INFO All tasks finished cancelling.
+2023/12/18 17:40:57 INFO Closing the event loop.
+2023/12/18 17:41:03 INFO logging in using static token
+2023/12/18 17:41:04 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 17:41:04 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-xk4v",{"micros":69766,"calls":["id_created",{"micros":1233,"calls":[]},"session_lookup_time",{"micros":391,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-2-277",{"micros":66530,"calls":["start_session",{"micros":46003,"calls":["discord-api-948796595-d8k2t",{"micros":40063,"calls":["get_user",{"micros":8073},"get_guilds",{"micros":4920},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":58,"calls":[]},"presence_started",{"micros":2862,"calls":[]},"guilds_started",{"micros":182,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":17389,"calls":[]},"connect_finished",{"micros":17395,"calls":[]},"build_ready",{"micros":25,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ab144905954c4da20b72029740bf24a8, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/18 17:41:06 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: 'data/custom message/guild'
+2023/12/18 17:41:06 INFO [+]System start work![+]
+2023/12/18 17:41:13 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: 'data/custom message/guild'
+2023/12/18 21:37:28 INFO Timed out receiving packet. Attempting a reconnect.
+2023/12/18 21:37:28 INFO Got a request to RESUME the websocket.
+2023/12/18 21:37:28 ERROR Attempting a reconnect in 1.23s
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023/12/18 21:37:30 ERROR Attempting a reconnect in 1.16s
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway.discord.gg:443 ssl:default [getaddrinfo failed]
+2023/12/18 21:37:31 ERROR Attempting a reconnect in 1.13s
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway.discord.gg:443 ssl:default [getaddrinfo failed]
+2023/12/18 21:37:32 ERROR Attempting a reconnect in 0.98s
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway.discord.gg:443 ssl:default [getaddrinfo failed]
+2023/12/18 21:37:33 ERROR Attempting a reconnect in 0.87s
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway.discord.gg:443 ssl:default [getaddrinfo failed]
+2023/12/18 21:37:34 ERROR Attempting a reconnect in 48.50s
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Vitalik\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway.discord.gg:443 ssl:default [getaddrinfo failed]
+2023/12/18 21:38:28 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 21:38:28 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-4hms",{"micros":166907,"calls":["id_created",{"micros":1687,"calls":[]},"session_lookup_time",{"micros":490,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-274",{"micros":158470,"calls":["start_session",{"micros":107072,"calls":["discord-api-669dcb6466-46nbv",{"micros":98199,"calls":["get_user",{"micros":16109},"get_guilds",{"micros":15611},"send_scheduled_deletion_message",{"micros":9},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":65,"calls":[]},"presence_started",{"micros":21232,"calls":[]},"guilds_started",{"micros":242,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":29815,"calls":[]},"connect_finished",{"micros":29822,"calls":[]},"build_ready",{"micros":34,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 379c55658c68200a301f9f2eea2b099d, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/18 21:38:30 INFO [+]System start work![+]
+2023/12/18 21:40:24 INFO Received signal to terminate bot and event loop.
+2023/12/18 21:40:24 INFO Cleaning up tasks.
+2023/12/18 21:40:24 INFO Cleaning up after 5 tasks.
+2023/12/18 21:40:24 INFO All tasks finished cancelling.
+2023/12/18 21:40:24 INFO Closing the event loop.
+2023/12/18 21:40:28 INFO logging in using static token
+2023/12/18 21:40:29 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 21:40:29 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-xdwx",{"micros":184494,"calls":["id_created",{"micros":1407,"calls":[]},"session_lookup_time",{"micros":547,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-canary-prd-1-1",{"micros":181887,"calls":["start_session",{"micros":96180,"calls":["discord-api-669dcb6466-ccvfw",{"micros":84562,"calls":["get_user",{"micros":17173},"get_guilds",{"micros":11070},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":78,"calls":[]},"presence_started",{"micros":535,"calls":[]},"guilds_started",{"micros":172,"calls":[]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":84877,"calls":[]},"connect_finished",{"micros":84886,"calls":[]},"build_ready",{"micros":31,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 5f3999eb5e4b1fbd906126d62370661b, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/18 21:40:32 INFO [+]System start work![+]
+2023/12/18 21:40:57 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'edit'
+2023/12/18 21:41:42 INFO Received signal to terminate bot and event loop.
+2023/12/18 21:41:42 INFO Cleaning up tasks.
+2023/12/18 21:41:42 INFO Cleaning up after 5 tasks.
+2023/12/18 21:41:42 INFO All tasks finished cancelling.
+2023/12/18 21:41:42 INFO Closing the event loop.
+2023/12/18 21:41:44 INFO logging in using static token
+2023/12/18 21:41:44 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 21:41:45 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-qpr0",{"micros":111872,"calls":["id_created",{"micros":2177,"calls":[]},"session_lookup_time",{"micros":4039,"calls":[]},"session_lookup_finished",{"micros":19,"calls":[]},"discord-sessions-prd-2-83",{"micros":101905,"calls":["start_session",{"micros":55335,"calls":["discord-api-669dcb6466-rtsfz",{"micros":50714,"calls":["get_user",{"micros":8128},"get_guilds",{"micros":2691},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":5757},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":53,"calls":[]},"presence_started",{"micros":12075,"calls":[]},"guilds_started",{"micros":169,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":34244,"calls":[]},"connect_finished",{"micros":34249,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 9e6e66613dcb88832a03927c56ad682f, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/18 21:41:47 INFO [+]System start work![+]
+2023/12/18 21:42:04 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/18 21:42:21 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/18 21:42:31 INFO Received signal to terminate bot and event loop.
+2023/12/18 21:42:31 INFO Cleaning up tasks.
+2023/12/18 21:42:31 INFO Cleaning up after 5 tasks.
+2023/12/18 21:42:31 INFO All tasks finished cancelling.
+2023/12/18 21:42:31 INFO Closing the event loop.
+2023/12/18 21:42:33 INFO logging in using static token
+2023/12/18 21:42:33 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 21:42:34 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-9g4t",{"micros":203916,"calls":["id_created",{"micros":2541,"calls":[]},"session_lookup_time",{"micros":433,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-294",{"micros":200571,"calls":["start_session",{"micros":161246,"calls":["discord-api-669dcb6466-zp7gr",{"micros":152240,"calls":["get_user",{"micros":56234},"get_guilds",{"micros":3526},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":71,"calls":[]},"presence_started",{"micros":20760,"calls":[]},"guilds_started",{"micros":249,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18211,"calls":[]},"connect_finished",{"micros":18218,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ecedaf23ac08a17ef9806dfcdadc9b85, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/18 21:42:36 INFO [+]System start work![+]
+2023/12/18 21:42:39 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/18 21:42:47 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/18 21:43:36 INFO Received signal to terminate bot and event loop.
+2023/12/18 21:43:36 INFO Cleaning up tasks.
+2023/12/18 21:43:36 INFO Cleaning up after 5 tasks.
+2023/12/18 21:43:36 INFO All tasks finished cancelling.
+2023/12/18 21:43:36 INFO Closing the event loop.
+2023/12/18 21:43:38 INFO logging in using static token
+2023/12/18 21:43:39 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 21:43:39 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-tggz",{"micros":198193,"calls":["id_created",{"micros":2271,"calls":[]},"session_lookup_time",{"micros":1634,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-222",{"micros":193838,"calls":["start_session",{"micros":146245,"calls":["discord-api-669dcb6466-kwh4l",{"micros":135581,"calls":["get_user",{"micros":28937},"get_guilds",{"micros":23125},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":14}]}]},"starting_guild_connect",{"micros":78,"calls":[]},"presence_started",{"micros":1443,"calls":[]},"guilds_started",{"micros":195,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":45842,"calls":[]},"connect_finished",{"micros":45849,"calls":[]},"build_ready",{"micros":25,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 3a5fc5177002f913ce9ddaa448452b4e, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/18 21:43:41 INFO [+]System start work![+]
+2023/12/18 21:43:50 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/18 21:43:56 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/18 21:44:24 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: 'data/custom message/guild'
+2023/12/18 21:45:03 INFO logging in using static token
+2023/12/18 21:45:04 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 21:45:04 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-0cfm",{"micros":78426,"calls":["id_created",{"micros":1179,"calls":[]},"session_lookup_time",{"micros":386,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-2-241",{"micros":76114,"calls":["start_session",{"micros":49412,"calls":["discord-api-669dcb6466-mtgvc",{"micros":45400,"calls":["get_user",{"micros":17920},"get_guilds",{"micros":2639},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":600},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":47,"calls":[]},"presence_started",{"micros":4525,"calls":[]},"guilds_started",{"micros":150,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":21953,"calls":[]},"connect_finished",{"micros":21960,"calls":[]},"build_ready",{"micros":16,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 2a8b8c9c42acd1cbf9adbd185b5926fb, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/18 21:45:06 INFO [+]System start work![+]
+2023/12/18 21:47:01 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: 'data/custom message/guild'
+2023/12/18 21:47:11 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/18 21:55:21 INFO logging in using static token
+2023/12/18 21:55:22 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 21:55:22 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-mtgk",{"micros":69925,"calls":["id_created",{"micros":1068,"calls":[]},"session_lookup_time",{"micros":401,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-95",{"micros":67128,"calls":["start_session",{"micros":62602,"calls":["discord-api-669dcb6466-rd5h5",{"micros":55003,"calls":["get_user",{"micros":13298},"get_guilds",{"micros":6747},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":60,"calls":[]},"presence_started",{"micros":563,"calls":[]},"guilds_started",{"micros":213,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":3663,"calls":[]},"connect_finished",{"micros":3669,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 8af51eb1d00e42ddc5224281fa934523, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/18 21:55:25 INFO [+]System start work![+]
+2023/12/18 21:55:26 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/18 23:01:08 INFO logging in using static token
+2023/12/18 23:01:09 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/18 23:01:09 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-tttl",{"micros":80472,"calls":["id_created",{"micros":3285,"calls":[]},"session_lookup_time",{"micros":1979,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-94",{"micros":73669,"calls":["start_session",{"micros":71545,"calls":["discord-api-56697bf949-78chl",{"micros":65577,"calls":["get_user",{"micros":12677},"get_guilds",{"micros":8623},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":309},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":56,"calls":[]},"presence_started",{"micros":1509,"calls":[]},"guilds_started",{"micros":144,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":391,"calls":[]},"connect_finished",{"micros":396,"calls":[]},"build_ready",{"micros":17,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: ff42a28fb9aed34b566ee5701c438535, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/18 23:01:12 INFO [+]System start work![+]
+2023/12/18 23:01:20 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/22 22:38:18 INFO logging in using static token
+2023/12/22 22:38:19 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 22:38:20 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-kk6s",{"micros":94398,"calls":["id_created",{"micros":1059,"calls":[]},"session_lookup_time",{"micros":3386,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-73",{"micros":88465,"calls":["start_session",{"micros":45698,"calls":["discord-api-8d87ccf47-ljxhz",{"micros":41000,"calls":["get_user",{"micros":6576},"get_guilds",{"micros":3875},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":65,"calls":[]},"presence_started",{"micros":18712,"calls":[]},"guilds_started",{"micros":207,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23755,"calls":[]},"connect_finished",{"micros":23762,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 180c97ddc91928bcceb3eb8925dc95b9, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/22 22:38:22 INFO [+]System start work![+]
+2023/12/22 22:38:28 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/22 22:38:32 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: 'data/custom message/guild'
+2023/12/22 22:41:43 INFO Received signal to terminate bot and event loop.
+2023/12/22 22:41:43 INFO Cleaning up tasks.
+2023/12/22 22:41:43 INFO Cleaning up after 6 tasks.
+2023/12/22 22:41:44 INFO All tasks finished cancelling.
+2023/12/22 22:41:44 INFO Closing the event loop.
+2023/12/22 22:41:47 INFO logging in using static token
+2023/12/22 22:41:48 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 22:41:48 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-lzbh",{"micros":125204,"calls":["id_created",{"micros":1857,"calls":[]},"session_lookup_time",{"micros":1601,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-145",{"micros":120789,"calls":["start_session",{"micros":81525,"calls":["discord-api-8d87ccf47-ntbhg",{"micros":77570,"calls":["get_user",{"micros":6794},"get_guilds",{"micros":6246},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":61,"calls":[]},"presence_started",{"micros":331,"calls":[]},"guilds_started",{"micros":147,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":38696,"calls":[]},"connect_finished",{"micros":38701,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 2db7d0ae1872c15dcdc9160c01e48e93, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/22 22:41:50 INFO [+]System start work![+]
+2023/12/22 22:42:20 INFO Received signal to terminate bot and event loop.
+2023/12/22 22:42:20 INFO Cleaning up tasks.
+2023/12/22 22:42:20 INFO Cleaning up after 5 tasks.
+2023/12/22 22:42:20 INFO All tasks finished cancelling.
+2023/12/22 22:42:20 INFO Closing the event loop.
+2023/12/22 22:42:23 INFO logging in using static token
+2023/12/22 22:42:23 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 22:42:24 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-2f71",{"micros":128498,"calls":["id_created",{"micros":1251,"calls":[]},"session_lookup_time",{"micros":3575,"calls":[]},"session_lookup_finished",{"micros":21,"calls":[]},"discord-sessions-prd-2-111",{"micros":122666,"calls":["start_session",{"micros":82852,"calls":["discord-api-8d87ccf47-vpkjz",{"micros":75945,"calls":["get_user",{"micros":8002},"get_guilds",{"micros":13741},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":14}]}]},"starting_guild_connect",{"micros":55,"calls":[]},"presence_started",{"micros":23447,"calls":[]},"guilds_started",{"micros":182,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":16098,"calls":[]},"connect_finished",{"micros":16104,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 725be71648d71a1a59733e3a5205cf3b, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/22 22:42:26 INFO [+]System start work![+]
+2023/12/22 22:42:28 CRITICAL Command raised an exception: AttributeError: 'NoneType' object has no attribute 'edit'
+2023/12/22 22:45:57 INFO Received signal to terminate bot and event loop.
+2023/12/22 22:45:57 INFO Cleaning up tasks.
+2023/12/22 22:45:57 INFO Cleaning up after 5 tasks.
+2023/12/22 22:45:58 INFO All tasks finished cancelling.
+2023/12/22 22:45:58 INFO Closing the event loop.
+2023/12/22 22:46:01 INFO logging in using static token
+2023/12/22 22:46:02 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 22:46:02 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-6230",{"micros":98274,"calls":["id_created",{"micros":1124,"calls":[]},"session_lookup_time",{"micros":2175,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-146",{"micros":93574,"calls":["start_session",{"micros":59258,"calls":["discord-api-8d87ccf47-c8cnk",{"micros":49796,"calls":["get_user",{"micros":9840},"get_guilds",{"micros":3743},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":1327},"authorized_ip_coro",{"micros":17}]}]},"starting_guild_connect",{"micros":71,"calls":[]},"presence_started",{"micros":21104,"calls":[]},"guilds_started",{"micros":176,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":12918,"calls":[]},"connect_finished",{"micros":12924,"calls":[]},"build_ready",{"micros":37,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: de2950afc0606dcc01219d261926bf92, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/22 22:46:04 INFO [+]System start work![+]
+2023/12/22 22:46:07 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/22 22:49:02 INFO Received signal to terminate bot and event loop.
+2023/12/22 22:49:02 INFO Cleaning up tasks.
+2023/12/22 22:49:02 INFO Cleaning up after 5 tasks.
+2023/12/22 22:49:02 INFO All tasks finished cancelling.
+2023/12/22 22:49:02 INFO Closing the event loop.
+2023/12/22 22:49:04 INFO logging in using static token
+2023/12/22 22:49:05 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 22:49:05 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-vtrc",{"micros":74030,"calls":["id_created",{"micros":1088,"calls":[]},"session_lookup_time",{"micros":401,"calls":[]},"session_lookup_finished",{"micros":20,"calls":[]},"discord-sessions-prd-2-257",{"micros":70984,"calls":["start_session",{"micros":61048,"calls":["discord-api-8d87ccf47-mz6mq",{"micros":55134,"calls":["get_user",{"micros":8337},"get_guilds",{"micros":12326},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":14}]}]},"starting_guild_connect",{"micros":54,"calls":[]},"presence_started",{"micros":345,"calls":[]},"guilds_started",{"micros":138,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":9363,"calls":[]},"connect_finished",{"micros":9369,"calls":[]},"build_ready",{"micros":25,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ea87cc1b4078431f70cb10a088309415, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/22 22:49:08 INFO [+]System start work![+]
+2023/12/22 22:49:08 CRITICAL Command raised an exception: TypeError: Interaction.send() got an unexpected keyword argument 'emb'
+2023/12/22 22:49:52 INFO Received signal to terminate bot and event loop.
+2023/12/22 22:49:52 INFO Cleaning up tasks.
+2023/12/22 22:49:52 INFO Cleaning up after 5 tasks.
+2023/12/22 22:49:52 INFO All tasks finished cancelling.
+2023/12/22 22:49:52 INFO Closing the event loop.
+2023/12/22 22:49:55 INFO logging in using static token
+2023/12/22 22:49:56 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 22:49:56 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-trv6",{"micros":74704,"calls":["id_created",{"micros":1178,"calls":[]},"session_lookup_time",{"micros":396,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-2-264",{"micros":72404,"calls":["start_session",{"micros":61408,"calls":["discord-api-8d87ccf47-dk5cp",{"micros":51948,"calls":["get_user",{"micros":11214},"get_guilds",{"micros":6303},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":14}]}]},"starting_guild_connect",{"micros":65,"calls":[]},"presence_started",{"micros":8380,"calls":[]},"guilds_started",{"micros":173,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2345,"calls":[]},"connect_finished",{"micros":2352,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 6a84671079a76b7e0258b1fa187ac035, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/22 22:49:58 INFO [+]System start work![+]
+2023/12/22 22:51:52 INFO Received signal to terminate bot and event loop.
+2023/12/22 22:51:52 INFO Cleaning up tasks.
+2023/12/22 22:51:52 INFO Cleaning up after 5 tasks.
+2023/12/22 22:51:52 INFO All tasks finished cancelling.
+2023/12/22 22:51:52 INFO Closing the event loop.
+2023/12/22 22:51:54 INFO logging in using static token
+2023/12/22 22:51:55 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 22:51:55 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-rklg",{"micros":112267,"calls":["id_created",{"micros":1824,"calls":[]},"session_lookup_time",{"micros":1654,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-41",{"micros":107955,"calls":["start_session",{"micros":66904,"calls":["discord-api-8d87ccf47-7vhck",{"micros":53723,"calls":["get_user",{"micros":10353},"get_guilds",{"micros":7295},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":71,"calls":[]},"presence_started",{"micros":12742,"calls":[]},"guilds_started",{"micros":178,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":28025,"calls":[]},"connect_finished",{"micros":28033,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: d8ff952ba8c242e3caff4b186a717a2a, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/22 22:51:58 INFO [+]System start work![+]
+2023/12/22 22:51:59 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: 'data/custom message/guild'
+2023/12/22 22:59:13 INFO Received signal to terminate bot and event loop.
+2023/12/22 22:59:13 INFO Cleaning up tasks.
+2023/12/22 22:59:13 INFO Cleaning up after 5 tasks.
+2023/12/22 22:59:13 INFO All tasks finished cancelling.
+2023/12/22 22:59:13 INFO Closing the event loop.
+2023/12/22 22:59:16 INFO logging in using static token
+2023/12/22 22:59:17 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 22:59:17 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-6d6l",{"micros":104730,"calls":["id_created",{"micros":1374,"calls":[]},"session_lookup_time",{"micros":315,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-6",{"micros":102307,"calls":["start_session",{"micros":57342,"calls":["discord-api-8d87ccf47-th6wx",{"micros":51382,"calls":["get_user",{"micros":8755},"get_guilds",{"micros":12158},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":59,"calls":[]},"presence_started",{"micros":9942,"calls":[]},"guilds_started",{"micros":165,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":34774,"calls":[]},"connect_finished",{"micros":34779,"calls":[]},"build_ready",{"micros":17,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 53c353882d62e8b1efa234019bbf8bbb, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/22 22:59:19 INFO [+]System start work![+]
+2023/12/22 22:59:22 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: './data/custom message/guild'
+2023/12/22 23:00:17 INFO Received signal to terminate bot and event loop.
+2023/12/22 23:00:17 INFO Cleaning up tasks.
+2023/12/22 23:00:17 INFO Cleaning up after 5 tasks.
+2023/12/22 23:00:18 INFO All tasks finished cancelling.
+2023/12/22 23:00:18 INFO Closing the event loop.
+2023/12/22 23:00:21 INFO logging in using static token
+2023/12/22 23:00:22 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 23:00:22 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-dx32",{"micros":147702,"calls":["id_created",{"micros":1407,"calls":[]},"session_lookup_time",{"micros":27488,"calls":[]},"session_lookup_finished",{"micros":22,"calls":[]},"discord-sessions-prd-2-153",{"micros":115419,"calls":["start_session",{"micros":88838,"calls":["discord-api-8d87ccf47-7zs7f",{"micros":82911,"calls":["get_user",{"micros":24320},"get_guilds",{"micros":11622},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":61,"calls":[]},"presence_started",{"micros":341,"calls":[]},"guilds_started",{"micros":193,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":25953,"calls":[]},"connect_finished",{"micros":25959,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: ab9a0ec9d8fde7289f31b0026cea5437, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/22 23:00:22 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: './data/custom message/guild'
+2023/12/22 23:00:24 INFO [+]System start work![+]
+2023/12/22 23:01:53 INFO Received signal to terminate bot and event loop.
+2023/12/22 23:01:53 INFO Cleaning up tasks.
+2023/12/22 23:01:53 INFO Cleaning up after 5 tasks.
+2023/12/22 23:01:53 INFO All tasks finished cancelling.
+2023/12/22 23:01:53 INFO Closing the event loop.
+2023/12/22 23:01:56 INFO logging in using static token
+2023/12/22 23:01:57 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 23:01:57 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-vvzg",{"micros":96345,"calls":["id_created",{"micros":2949,"calls":[]},"session_lookup_time",{"micros":4832,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-29",{"micros":87646,"calls":["start_session",{"micros":73544,"calls":["discord-api-8d87ccf47-vjkg5",{"micros":64080,"calls":["get_user",{"micros":14969},"get_guilds",{"micros":4522},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":14}]}]},"starting_guild_connect",{"micros":123,"calls":[]},"presence_started",{"micros":315,"calls":[]},"guilds_started",{"micros":164,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":13471,"calls":[]},"connect_finished",{"micros":13476,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 56c2a26755bbf5669f00687f530233c0, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/22 23:01:58 CRITICAL Command raised an exception: FileNotFoundError: [WinError 3] The system cannot find the path specified: '.data/custom message/guilds'
+2023/12/22 23:01:59 INFO [+]System start work![+]
+2023/12/22 23:02:25 INFO Received signal to terminate bot and event loop.
+2023/12/22 23:02:25 INFO Cleaning up tasks.
+2023/12/22 23:02:25 INFO Cleaning up after 5 tasks.
+2023/12/22 23:02:26 INFO All tasks finished cancelling.
+2023/12/22 23:02:26 INFO Closing the event loop.
+2023/12/22 23:02:28 INFO logging in using static token
+2023/12/22 23:02:29 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 23:02:29 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-dqzg",{"micros":119089,"calls":["id_created",{"micros":1456,"calls":[]},"session_lookup_time",{"micros":345,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-127",{"micros":116371,"calls":["start_session",{"micros":76755,"calls":["discord-api-8d87ccf47-zvzhq",{"micros":67535,"calls":["get_user",{"micros":15395},"get_guilds",{"micros":7557},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":73,"calls":[]},"presence_started",{"micros":10098,"calls":[]},"guilds_started",{"micros":184,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":29227,"calls":[]},"connect_finished",{"micros":29234,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: dc529d05b050d1c64f264966e4f2d56b, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/22 23:02:32 INFO [+]System start work![+]
+2023/12/22 23:02:34 CRITICAL Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'data/custom message/guild/1002848611270410240.json'
+2023/12/22 23:05:03 INFO Received signal to terminate bot and event loop.
+2023/12/22 23:05:03 INFO Cleaning up tasks.
+2023/12/22 23:05:03 INFO Cleaning up after 5 tasks.
+2023/12/22 23:05:03 INFO All tasks finished cancelling.
+2023/12/22 23:05:03 INFO Closing the event loop.
+2023/12/22 23:05:06 INFO logging in using static token
+2023/12/22 23:05:07 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 23:05:07 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-cs58",{"micros":77825,"calls":["id_created",{"micros":2008,"calls":[]},"session_lookup_time",{"micros":950,"calls":[]},"session_lookup_finished",{"micros":29,"calls":[]},"discord-sessions-prd-2-79",{"micros":73089,"calls":["start_session",{"micros":49528,"calls":["discord-api-8d87ccf47-rqt58",{"micros":36578,"calls":["get_user",{"micros":6810},"get_guilds",{"micros":3238},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":66,"calls":[]},"presence_started",{"micros":18454,"calls":[]},"guilds_started",{"micros":199,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":4815,"calls":[]},"connect_finished",{"micros":4820,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 67bafd6811d1ae39f079336b47164059, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2023/12/22 23:05:08 CRITICAL Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'data/custom message/guild/1002848611270410240.json'
+2023/12/22 23:05:10 INFO [+]System start work![+]
+2023/12/22 23:05:38 INFO Received signal to terminate bot and event loop.
+2023/12/22 23:05:38 INFO Cleaning up tasks.
+2023/12/22 23:05:38 INFO Cleaning up after 5 tasks.
+2023/12/22 23:05:38 INFO All tasks finished cancelling.
+2023/12/22 23:05:38 INFO Closing the event loop.
+2023/12/22 23:05:41 INFO logging in using static token
+2023/12/22 23:05:42 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 23:05:42 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-clgf",{"micros":69288,"calls":["id_created",{"micros":1035,"calls":[]},"session_lookup_time",{"micros":1450,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-228",{"micros":65710,"calls":["start_session",{"micros":41199,"calls":["discord-api-8d87ccf47-gxnsc",{"micros":33898,"calls":["get_user",{"micros":7072},"get_guilds",{"micros":2846},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":900},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":57,"calls":[]},"presence_started",{"micros":354,"calls":[]},"guilds_started",{"micros":163,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23908,"calls":[]},"connect_finished",{"micros":23912,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 5b58d43276479ae83a7d9bb4080cd8be, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2023/12/22 23:05:44 INFO [+]System start work![+]
+2023/12/22 23:05:46 CRITICAL Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'data/custom message/guild/1002848611270410240.json'
+2023/12/22 23:06:41 INFO Received signal to terminate bot and event loop.
+2023/12/22 23:06:41 INFO Cleaning up tasks.
+2023/12/22 23:06:41 INFO Cleaning up after 5 tasks.
+2023/12/22 23:06:41 INFO All tasks finished cancelling.
+2023/12/22 23:06:41 INFO Closing the event loop.
+2023/12/22 23:06:44 INFO logging in using static token
+2023/12/22 23:06:44 INFO Shard ID None has sent the IDENTIFY payload.
+2023/12/22 23:06:45 INFO Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-g67r",{"micros":90955,"calls":["id_created",{"micros":1185,"calls":[]},"session_lookup_time",{"micros":439,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-230",{"micros":88478,"calls":["start_session",{"micros":82269,"calls":["discord-api-8d87ccf47-5b2hp",{"micros":72439,"calls":["get_user",{"micros":20098},"get_guilds",{"micros":8267},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":75,"calls":[]},"presence_started",{"micros":5590,"calls":[]},"guilds_started",{"micros":142,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":370,"calls":[]},"connect_finished",{"micros":375,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 7c78759c7a66afdc2a0230ab165a671f, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2023/12/22 23:06:46 CRITICAL Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'data/custom_message/guild/1002848611270410240.json'
+2023/12/22 23:06:47 INFO [+]System start work![+]
+2024/04/08 13:23:27 INFO logging in using static token
+2024/04/08 13:23:27 INFO Cleaning up tasks.
+2024/04/08 13:23:27 INFO Cleaning up after 2 tasks.
+2024/04/08 13:23:27 INFO All tasks finished cancelling.
+2024/04/08 13:23:27 INFO Closing the event loop.
+2024/04/08 13:23:51 INFO logging in using static token
+2024/04/08 13:23:51 INFO Cleaning up tasks.
+2024/04/08 13:23:51 INFO Cleaning up after 2 tasks.
+2024/04/08 13:23:51 INFO All tasks finished cancelling.
+2024/04/08 13:23:51 INFO Closing the event loop.

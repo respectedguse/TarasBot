@@ -1,0 +1,13 @@
+{
+     "working": {
+          "timework": 270,
+          "days": 0,
+          "hours": 0,
+          "minutes": 4,
+          "seconds": 30
+     },
+     "bot": {
+          "guilds": 2,
+          "members": 6
+     }
+}
